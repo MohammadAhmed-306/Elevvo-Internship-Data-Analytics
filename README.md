@@ -31,7 +31,7 @@ The projects focus on applying **Excel, Python, and Power BI** to real-world dat
 - Regional sales performance and **category/sub-category breakdowns**.  
 - Trend analysis to track growth patterns over time.  
 
-📂 [View Task 8 Files](https://github.com/MohammadAhmed-306/Elevvo-Internship-Data-Analytics/tree/main/Retail%20Insights%20Dashboard%20(Power%20BI)))  
+📂 [View Task 8 Files](https://github.com/MohammadAhmed-306/Elevvo-Internship-Data-Analytics/tree/main/Retail%20Insights%20Dashboard%20(Power%20BI)) 
 
 ---
 
