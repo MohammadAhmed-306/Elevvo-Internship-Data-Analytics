@@ -11,7 +11,7 @@ The projects focus on applying **Excel, Python, and Power BI** to real-world dat
 - Sales analysis by **year, category, and customer segment**.  
 - Identified **Top 10 Products** driving sales.  
 
-📂 [View Task 1 Files])https://github.com/MohammadAhmed-306/Elevvo-Internship-Data-Analytics/tree/main/Sales%20Performance%20Dashboard%20(Excel)
+📂 [View Task 1 Files](https://github.com/MohammadAhmed-306/Elevvo-Internship-Data-Analytics/tree/main/Sales%20Performance%20Dashboard%20(Excel))
 
 ---
 
