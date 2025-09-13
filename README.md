@@ -35,13 +35,13 @@ The projects focus on applying **Excel, Python, and Power BI** to real-world dat
 
 ---
 
-## 🛒 Task 9 – E-Commerce Business Insights (Python/Power BI/Excel)  
+## 🛒 Task 9 – E-Commerce Business Insights (Power BI)  
 - Conducted a full-cycle analysis on the **Brazilian E-Commerce Public Dataset**.  
 - Cleaned and preprocessed sales, product, and customer data.  
 - Performed EDA and segmentation to uncover shopping behaviors.  
 - Visualized insights in dashboards and compiled key findings into a structured report.  
 
-📂 [View Task 9 Files](./Task9-ECommerce-Insights)  
+📂 [View Task 9 Files](https://github.com/MohammadAhmed-306/Elevvo-Internship-Data-Analytics/tree/main/Business%20Insights%20%26%20Executive%20Report%20(Power%20BI)) 
 
 ---
 
